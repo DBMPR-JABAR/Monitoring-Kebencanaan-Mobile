@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.go.jabarprov.dbmpr.bencana">
+    package="com.example.monitoring_bencana">
    <application
-        android:label="bencana"
+        android:label="monitoring_bencana"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

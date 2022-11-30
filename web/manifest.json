@@ -1,6 +1,6 @@
 {
-    "name": "bencana",
-    "short_name": "bencana",
+    "name": "monitoring_bencana",
+    "short_name": "monitoring_bencana",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

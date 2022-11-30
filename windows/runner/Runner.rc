@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "id.go.jabarprov.dbmpr" "\0"
-            VALUE "FileDescription", "bencana" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "monitoring_bencana" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bencana" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 id.go.jabarprov.dbmpr. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bencana.exe" "\0"
-            VALUE "ProductName", "bencana" "\0"
+            VALUE "InternalName", "monitoring_bencana" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "monitoring_bencana.exe" "\0"
+            VALUE "ProductName", "monitoring_bencana" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
